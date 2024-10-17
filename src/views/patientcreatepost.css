@@ -1,0 +1,227 @@
+.patientcreatepost-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.patientcreatepost-patientcreatepost {
+  gap: 20px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 30px 20px;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(212, 215, 229, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.patientcreatepost-frame48095952 {
+  gap: 10px;
+  width: 390px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.patientcreatepost-frame48095764 {
+  gap: 13.409090995788574px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.patientcreatepost-image1 {
+  width: 59px;
+  height: 59px;
+  border-color: rgba(255, 182, 130, 1);
+  border-style: solid;
+  border-width: 2.6818182468414307px;
+}
+.patientcreatepost-image2 {
+  top: 5.36328125px;
+  left: 5.36328125px;
+  width: 48px;
+  height: 48px;
+  z-index: 1;
+  position: absolute;
+}
+.patientcreatepost-frame48095951 {
+  gap: 10px;
+  display: flex;
+  padding: 15px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(180, 183, 201, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+  background-color: rgba(243, 243, 243, 1);
+}
+.patientcreatepost-text1 {
+  color: var(--dl-color-gray-700);
+  height: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+}
+.patientcreatepost-frame48095958 {
+  gap: 24px;
+  display: flex;
+  align-items: flex-start;
+}
+.patientcreatepost-frame48095955 {
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: var(--dl-color-gray-200);
+}
+.patientcreatepost-frame48095953 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-items: flex-start;
+}
+.patientcreatepost-vuesaxlineargallery1 {
+  gap: 10px;
+  display: flex;
+  align-items: flex-start;
+}
+.patientcreatepost-vuesaxlineargallery2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.patientcreatepost-gallery {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.patientcreatepost-vector1 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.patientcreatepost-vector2 {
+  top: 6px;
+  left: 7px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.patientcreatepost-vector3 {
+  top: 11.9975004196167px;
+  left: 2.6700000762939453px;
+  width: 19px;
+  height: 7px;
+  position: absolute;
+}
+.patientcreatepost-frame480959541 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 10px 10px 0;
+  align-items: center;
+  justify-content: center;
+}
+.patientcreatepost-text3 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+}
+.patientcreatepost-frame48095956 {
+  display: flex;
+  padding: 0 10px;
+  align-items: center;
+  border-radius: 10px;
+  background-color: var(--dl-color-gray-200);
+}
+.patientcreatepost-frame480959542 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 0;
+  align-items: center;
+  justify-content: center;
+}
+.patientcreatepost-text5 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  text-align: center;
+  line-height: 160.0000023841858%;
+}
+.patientcreatepost-vuesaxlineararrowdown1 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  align-self: stretch;
+  align-items: center;
+}
+.patientcreatepost-vuesaxlineararrowdown2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.patientcreatepost-arrowdown {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.patientcreatepost-vector4 {
+  top: 8.949999809265137px;
+  left: 4.079999923706055px;
+  width: 16px;
+  height: 7px;
+  position: absolute;
+}
+.patientcreatepost-frame48095981 {
+  gap: 10px;
+  width: 400px;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.patientcreatepost-frame48095972 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.patientcreatepost-tab {
+  gap: 8px;
+  width: 161px;
+  display: flex;
+  padding: 8px 16px;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 6px;
+  justify-content: center;
+  background-color: rgba(255, 182, 130, 1);
+}
+.patientcreatepost-text7 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: left;
+  line-height: 160.0000023841858%;
+}

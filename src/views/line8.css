@@ -1,0 +1,16 @@
+.line8-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.line8-dummy-container {
+  width: 100%;
+  height: 900px;
+}
+.line8-line8 {
+  width: 436px;
+  height: 1px;
+}
