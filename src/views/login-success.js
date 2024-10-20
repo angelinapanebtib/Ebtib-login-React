@@ -21,7 +21,7 @@ const LoginSuccess = (props) => {
         <div className="login-success-home-indicator1">
           <img
             alt="HomeIndicatorI214"
-            src="/external/homeindicatori214-a8y-200h.png"
+            src="/external/homeindicatori214-l56e-200h.png"
             className="login-success-home-indicator2"
           />
         </div>
@@ -36,28 +36,28 @@ const LoginSuccess = (props) => {
               <div className="login-success-battery">
                 <img
                   alt="BorderI214"
-                  src="/external/borderi214-9am2-200h.png"
+                  src="/external/borderi214-zx0b-200h.png"
                   className="login-success-border"
                 />
                 <img
                   alt="CapI214"
-                  src="/external/capi214-2cog.svg"
+                  src="/external/capi214-au5f.svg"
                   className="login-success-cap"
                 />
                 <img
                   alt="CapacityI214"
-                  src="/external/capacityi214-hcer-200h.png"
+                  src="/external/capacityi214-1qq-200h.png"
                   className="login-success-capacity"
                 />
               </div>
               <img
                 alt="WifiI214"
-                src="/external/wifii214-8ql9.svg"
+                src="/external/wifii214-8ns.svg"
                 className="login-success-wifi"
               />
               <img
                 alt="CellularConnectionI214"
-                src="/external/cellularconnectioni214-46f.svg"
+                src="/external/cellularconnectioni214-gk0a.svg"
                 className="login-success-cellular-connection"
               />
             </div>
@@ -69,7 +69,7 @@ const LoginSuccess = (props) => {
                   <div className="login-success-arrowleft">
                     <img
                       alt="VectorI214"
-                      src="/external/vectori214-8ms8.svg"
+                      src="/external/vectori214-886.svg"
                       className="login-success-vector"
                     />
                   </div>
@@ -108,7 +108,7 @@ const LoginSuccess = (props) => {
           <div className="login-success-dialog">
             <img
               alt="imageI214"
-              src="/external/imagei214-o1iz.svg"
+              src="/external/imagei214-t9ks.svg"
               className="login-success-image"
             />
             <div className="login-success-text26">
@@ -123,42 +123,42 @@ const LoginSuccess = (props) => {
               <div className="login-success-spinner">
                 <img
                   alt="IMAGE325I214"
-                  src="/external/image325i214-cwh8-200h.png"
+                  src="/external/image325i214-1q0r-200h.png"
                   className="login-success-image325"
                 />
                 <img
                   alt="IMAGE270I214"
-                  src="/external/image270i214-gp8u-200h.png"
+                  src="/external/image270i214-gk3-200h.png"
                   className="login-success-image270"
                 />
                 <img
                   alt="IMAGE225I214"
-                  src="/external/image225i214-e081-200h.png"
+                  src="/external/image225i214-1h2u-200h.png"
                   className="login-success-image225"
                 />
                 <img
                   alt="IMAGE180I214"
-                  src="/external/image180i214-0hv-200w.png"
+                  src="/external/image180i214-fm2e-200w.png"
                   className="login-success-image180"
                 />
                 <img
                   alt="IMAGE135I214"
-                  src="/external/image135i214-bbur-200h.png"
+                  src="/external/image135i214-ip4-200h.png"
                   className="login-success-image135"
                 />
                 <img
                   alt="IMAGE90I214"
-                  src="/external/image90i214-lsn8r-200h.png"
+                  src="/external/image90i214-drkd-200h.png"
                   className="login-success-image90"
                 />
                 <img
                   alt="IMAGE45I214"
-                  src="/external/image45i214-c69r-200h.png"
+                  src="/external/image45i214-4r3ki-200h.png"
                   className="login-success-image45"
                 />
                 <img
                   alt="IMAGE0I214"
-                  src="/external/image0i214-3hsy-200w.png"
+                  src="/external/image0i214-3r2o-200w.png"
                   className="login-success-image0"
                 />
               </div>

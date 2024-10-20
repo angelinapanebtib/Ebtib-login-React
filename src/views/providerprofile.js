@@ -13,27 +13,27 @@ const Providerprofile = (props) => {
       <div className="providerprofile-providerprofile">
         <img
           alt="Rectangle301828"
-          src="/external/rectangle301828-dne7a-500w.png"
+          src="/external/rectangle301828-5st4-500w.png"
           className="providerprofile-rectangle30"
         />
         <img
           alt="Line71828"
-          src="/external/line71828-f5w.svg"
+          src="/external/line71828-lwlv.svg"
           className="providerprofile-line7"
         />
         <img
           alt="Line51828"
-          src="/external/line51828-ni5.svg"
+          src="/external/line51828-td2y.svg"
           className="providerprofile-line5"
         />
         <img
           alt="Line41828"
-          src="/external/line41828-ph9e.svg"
+          src="/external/line41828-5hvd.svg"
           className="providerprofile-line4"
         />
         <img
           alt="Ellipse71828"
-          src="/external/ellipse71828-gp0j-200h.png"
+          src="/external/ellipse71828-rjqrc-200h.png"
           className="providerprofile-ellipse7"
         />
         <span className="providerprofile-text10">
@@ -44,14 +44,14 @@ const Providerprofile = (props) => {
         </span>
         <img
           alt="Rectangle311972"
-          src="/external/rectangle311972-1umd.svg"
+          src="/external/rectangle311972-pivg.svg"
           className="providerprofile-rectangle31"
         />
         <div className="providerprofile-close1">
           <div className="providerprofile-close2">
             <img
               alt="VectorI197"
-              src="/external/vectori197-umgc.svg"
+              src="/external/vectori197-hwlf.svg"
               className="providerprofile-vector"
             />
           </div>
@@ -104,7 +104,7 @@ const Providerprofile = (props) => {
         </span>
         <span className="providerprofile-text31">
           <span>
-            Weekly Analyze
+            Weekly Busines Analyze
             <span
               dangerouslySetInnerHTML={{
                 __html: ' ',
@@ -117,7 +117,7 @@ const Providerprofile = (props) => {
         </div>
         <img
           alt="Union2385"
-          src="/external/union2385-8ji.svg"
+          src="/external/union2385-ece4.svg"
           className="providerprofile-union"
         />
         <span className="providerprofile-text33">

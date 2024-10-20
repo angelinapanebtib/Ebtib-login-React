@@ -1,0 +1,220 @@
+.signupready-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.signupready-signupready {
+  width: 100%;
+  height: 844px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signupready-home-indicator1 {
+  gap: 10px;
+  top: 823px;
+  left: 0px;
+  width: 390px;
+  height: 21px;
+  display: flex;
+  padding: 8px 127px;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+}
+.signupready-home-indicator2 {
+  top: 8px;
+  left: 264px;
+  width: 139px;
+  height: 5px;
+  position: absolute;
+  border-radius: 100px;
+}
+.signupready-signinorup-navigation-bar {
+  top: 0px;
+  left: 0px;
+  width: 390px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(44, 44, 44, 0.30000001192092896);
+  border-style: solid;
+  border-width: 0 0 0.33329999446868896px;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.signupready-signinorup-navigation-bar-contents {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.signupready-titleand-controls {
+  gap: 2px;
+  width: 390px;
+  height: 46px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.signupready-leading {
+  top: 0px;
+  left: 0px;
+  width: 79px;
+  display: flex;
+  padding: 11px 8px;
+  position: absolute;
+  align-items: center;
+}
+.signupready-arrows {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.signupready-arrowleft {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.signupready-vector {
+  top: 4.079999923706055px;
+  left: 7.902499675750732px;
+  width: 7px;
+  height: 16px;
+  position: absolute;
+}
+.signupready-text10 {
+  color: var(--dl-color-colors-orange);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.signupready-text12 {
+  top: 11px;
+  left: 85px;
+  color: var(--dl-color-neutral-black);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  flex-grow: 1;
+  text-align: center;
+  line-height: 24px;
+}
+.signupready-logo-cards {
+  top: 116px;
+  left: 41px;
+  width: 358px;
+  height: 167px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 32px;
+}
+.signupready-logo {
+  gap: 10px;
+  top: 64px;
+  left: 16px;
+  width: 173px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.signupready-text14 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Cabin;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.signupready-googlesignbutton {
+  gap: 16px;
+  top: 583px;
+  left: 25px;
+  width: 390px;
+  display: flex;
+  padding: 16px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.signupready-button {
+  gap: 8px;
+  top: 423px;
+  left: 16px;
+  width: 358px;
+  display: flex;
+  padding: 14px 20px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+  justify-content: center;
+  background-color: var(--dl-color-neutral-greylight);
+}
+.signupready-google {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.signupready-image1 {
+  top: 2px;
+  left: 2px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.signupready-text16 {
+  color: var(--dl-color-neutral-black);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.signupready-text18 {
+  top: 775px;
+  left: 16px;
+  color: var(--dl-color-neutral-grey);
+  width: 358px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 20px;
+}
+.signupready-logoebtib1 {
+  top: 120px;
+  left: 211px;
+  width: 158px;
+  height: 158px;
+  position: absolute;
+}

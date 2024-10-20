@@ -52,6 +52,10 @@
   width: 70px;
   height: 70px;
   position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(255, 182, 18, 1);
+  border-style: solid;
+  border-width: 7px;
 }
 .providerprofile-text10 {
   top: 136px;
@@ -211,10 +215,10 @@
   text-decoration: none;
 }
 .providerprofile-text31 {
-  top: 447px;
-  left: 25px;
+  top: 448px;
+  left: 23px;
   color: rgba(0, 0, 0, 1);
-  width: 259px;
+  width: 311px;
   height: auto;
   position: absolute;
   font-size: 26px;

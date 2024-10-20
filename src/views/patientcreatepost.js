@@ -15,12 +15,12 @@ const Patientcreatepost = (props) => {
           <div className="patientcreatepost-frame48095764">
             <img
               alt="image3188"
-              src="/external/image3188-039l-200h.png"
+              src="/external/image3188-c4ho-200h.png"
               className="patientcreatepost-image1"
             />
             <img
               alt="image3188"
-              src="/external/image3188-568l-200h.png"
+              src="/external/image3188-r56k-200h.png"
               className="patientcreatepost-image2"
             />
           </div>
@@ -38,17 +38,17 @@ const Patientcreatepost = (props) => {
                   <div className="patientcreatepost-gallery">
                     <img
                       alt="Vector3188"
-                      src="/external/vector3188-0tbw.svg"
+                      src="/external/vector3188-vkbn.svg"
                       className="patientcreatepost-vector1"
                     />
                     <img
                       alt="Vector3188"
-                      src="/external/vector3188-wzo8.svg"
+                      src="/external/vector3188-64xi.svg"
                       className="patientcreatepost-vector2"
                     />
                     <img
                       alt="Vector3188"
-                      src="/external/vector3188-hp8u.svg"
+                      src="/external/vector3188-rgon.svg"
                       className="patientcreatepost-vector3"
                     />
                   </div>
@@ -72,7 +72,7 @@ const Patientcreatepost = (props) => {
                 <div className="patientcreatepost-arrowdown">
                   <img
                     alt="Vector3188"
-                    src="/external/vector3188-knar.svg"
+                    src="/external/vector3188-0rh.svg"
                     className="patientcreatepost-vector4"
                   />
                 </div>

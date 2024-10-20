@@ -21,14 +21,28 @@
   flex-direction: column;
   background-color: rgba(255, 255, 255, 1);
 }
+.dialouge-dialogue {
+  width: 400px;
+  height: 755px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
 .dialouge-arrow-back {
+  top: 0px;
+  left: 0px;
   width: 24px;
   height: 24px;
+  position: absolute;
 }
 .dialouge-frame48095996 {
   gap: 37px;
+  top: 44px;
+  left: 0px;
   width: 375px;
   display: flex;
+  position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
   flex-direction: column;
@@ -123,7 +137,11 @@
 }
 .dialouge-frame48095991 {
   gap: 20px;
+  top: 207px;
+  left: 400px;
+  width: 400px;
   display: flex;
+  position: absolute;
   align-self: stretch;
   align-items: flex-start;
   flex-shrink: 0;
@@ -196,8 +214,11 @@
 }
 .dialouge-message4 {
   gap: 4px;
+  top: 400px;
+  left: 0px;
   width: 332px;
   display: flex;
+  position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
   flex-direction: column;
@@ -341,8 +362,12 @@
 }
 .dialouge-message2 {
   gap: 4px;
+  top: 707px;
+  left: 0px;
+  width: 400px;
   display: flex;
   padding: 12px;
+  position: absolute;
   align-self: stretch;
   align-items: center;
   flex-shrink: 0;

@@ -32,6 +32,7 @@
   gap: 13.409090995788574px;
   display: flex;
   position: relative;
+  box-sizing: content-box;
   align-items: flex-start;
 }
 .patientcreatepost-image1 {

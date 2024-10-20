@@ -12,36 +12,36 @@ const Explorepage = (props) => {
       </Helmet>
       <div className="explorepage-explorepage">
         <img
-          alt="Rectangle101827"
-          src="/external/rectangle101827-9w7f-200h.png"
-          className="explorepage-rectangle10"
+          alt="explorepagetopcontainer1827"
+          src="/external/explorepagetopcontainer1827-cuqo-200h.png"
+          className="explorepage-explorepagetopcontainer"
         />
         <img
-          alt="Ellipse61827"
-          src="/external/ellipse61827-l5r-200h.png"
-          className="explorepage-ellipse6"
+          alt="randompatientavatarwithmood1827"
+          src="/external/randompatientavatarwithmood1827-e0sr-200h.png"
+          className="explorepage-randompatientavatarwithmood"
         />
         <img
-          alt="Rectangle111827"
-          src="/external/rectangle111827-g70e-200h.png"
-          className="explorepage-rectangle11"
+          alt="explorepagedividerectangletop1827"
+          src="/external/explorepagedividerectangletop1827-5efe-200h.png"
+          className="explorepage-explorepagedividerectangletop"
         />
         <img
-          alt="Rectangle121827"
-          src="/external/rectangle121827-kcoe-200h.png"
-          className="explorepage-rectangle12"
+          alt="anotificationmessageforpatient1827"
+          src="/external/anotificationmessageforpatient1827-kxoax-200h.png"
+          className="explorepage-anotificationmessageforpatient"
         />
         <img
-          alt="Rectangle131827"
-          src="/external/rectangle131827-ovf-400h.png"
-          className="explorepage-rectangle13"
+          alt="wholerectangleexplorepagepostdisaplay1827"
+          src="/external/wholerectangleexplorepagepostdisaplay1827-9cg-400h.png"
+          className="explorepage-wholerectangleexplorepagepostdisaplay"
         />
         <span className="explorepage-text10">
           <span>James Robert</span>
         </span>
         <img
           alt="Ellipse41827"
-          src="/external/ellipse41827-jry-200h.png"
+          src="/external/ellipse41827-1rvi-200h.png"
           className="explorepage-ellipse4"
         />
         <span className="explorepage-text12">
@@ -54,19 +54,19 @@ const Explorepage = (props) => {
           <span>Emily Thompson</span>
         </span>
         <img
-          alt="Ellipse51827"
-          src="/external/ellipse51827-hrfp-200h.png"
-          className="explorepage-ellipse5"
+          alt="explorepageprovideravatar1827"
+          src="/external/explorepageprovideravatar1827-yptc-200h.png"
+          className="explorepage-explorepageprovideravatar"
         />
         <img
           alt="Ellipse31827"
-          src="/external/ellipse31827-9mhh-200h.png"
+          src="/external/ellipse31827-j4wr-200h.png"
           className="explorepage-ellipse3"
         />
         <img
-          alt="Rectangle171827"
-          src="/external/rectangle171827-o3on.svg"
-          className="explorepage-rectangle171"
+          alt="seorectangle1827"
+          src="/external/seorectangle1827-i139.svg"
+          className="explorepage-seorectangle"
         />
         <span className="explorepage-text18">
           <span>Wooden CLINIC-Post Traum</span>
@@ -75,9 +75,9 @@ const Explorepage = (props) => {
           <span>83%</span>
         </span>
         <img
-          alt="Rectangle201827"
-          src="/external/rectangle201827-ibrh-200h.png"
-          className="explorepage-rectangle20"
+          alt="explorepagedividerectanglemiddle1827"
+          src="/external/explorepagedividerectanglemiddle1827-uqfv-200h.png"
+          className="explorepage-explorepagedividerectanglemiddle"
         />
         <span className="explorepage-text22">
           <span>🔍 Search</span>
@@ -102,58 +102,94 @@ const Explorepage = (props) => {
             />
           </span>
         </span>
-        <div className="explorepage-group1">
-          <img
-            alt="SadCody3D1827"
-            src="/external/sadcody3d1827-8wz5-2000h.png"
-            className="explorepage-sad-cody3d1"
-          />
-          <img
-            alt="Rectangle171827"
-            src="/external/rectangle171827-bz12a-200h.png"
-            className="explorepage-rectangle172"
-          />
-          <img
-            alt="SadCody3D1827"
-            src="/external/sadcody3d1827-xx6j-2000h.png"
-            className="explorepage-sad-cody3d2"
-          />
-          <img
-            alt="Vector1827"
-            src="/external/vector1827-uyuq.svg"
-            className="explorepage-vector"
-          />
-          <img
-            alt="SVG24Create2387"
-            src="/external/svg24create2387-k5oa.svg"
-            className="explorepage-svg24-create"
-          />
-        </div>
+        <span className="explorepage-text29">
+          <span>Like</span>
+        </span>
+        <span className="explorepage-text31">
+          <span>Share</span>
+        </span>
         <img
           alt="messagecircle2387"
-          src="/external/messagecircle2387-j63.svg"
+          src="/external/messagecircle2387-t3aa.svg"
           className="explorepage-messagecircle"
         />
         <img
           alt="SVG32Like2387"
-          src="/external/svg32like2387-c7vm.svg"
+          src="/external/svg32like2387-jkfi.svg"
           className="explorepage-svg32-like"
         />
         <img
           alt="SVG32Share2387"
-          src="/external/svg32share2387-i8yv.svg"
+          src="/external/svg32share2387-1z3q.svg"
           className="explorepage-svg32-share"
         />
         <img
           alt="Line92387"
-          src="/external/line92387-1qvi.svg"
+          src="/external/line92387-a33g.svg"
           className="explorepage-line9"
         />
         <img
-          alt="user2387"
-          src="/external/user2387-de9b.svg"
-          className="explorepage-user"
+          alt="Rectangle324216"
+          src="/external/rectangle324216-ba0w-300h.png"
+          className="explorepage-rectangle32"
         />
+        <div className="explorepage-buttombar">
+          <div className="explorepage-iconboldhome2">
+            <div className="explorepage-vuesaxboldhome2">
+              <div className="explorepage-home2">
+                <img
+                  alt="VectorI792"
+                  src="/external/vectori792-i86j.svg"
+                  className="explorepage-vector1"
+                />
+              </div>
+            </div>
+          </div>
+          <div className="explorepage-search1">
+            <div className="explorepage-search2">
+              <img
+                alt="strokeI792"
+                src="/external/strokei792-brjr.svg"
+                className="explorepage-stroke1"
+              />
+              <img
+                alt="strokeI792"
+                src="/external/strokei792-8pee.svg"
+                className="explorepage-stroke2"
+              />
+            </div>
+          </div>
+          <div className="explorepage-notification">
+            <div className="explorepage-group">
+              <img
+                alt="VectorI792"
+                src="/external/vectori792-6709.svg"
+                className="explorepage-vector2"
+              />
+              <img
+                alt="VectorI792"
+                src="/external/vectori792-ea2m.svg"
+                className="explorepage-vector3"
+              />
+            </div>
+          </div>
+          <div className="explorepage-user1">
+            <div className="explorepage-vuesaxlinearuser">
+              <div className="explorepage-user2">
+                <img
+                  alt="VectorI792"
+                  src="/external/vectori792-0zzh.svg"
+                  className="explorepage-vector4"
+                />
+                <img
+                  alt="VectorI792"
+                  src="/external/vectori792-g5ke.svg"
+                  className="explorepage-vector5"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   )

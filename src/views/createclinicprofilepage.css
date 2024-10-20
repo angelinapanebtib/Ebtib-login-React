@@ -1,0 +1,540 @@
+.createclinicprofilepage-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.createclinicprofilepage-createclinicprofilepage {
+  width: 100%;
+  height: 956px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.createclinicprofilepage-providerpagebackgrounddiy {
+  top: 0px;
+  left: 0px;
+  width: 440px;
+  height: 249px;
+  position: absolute;
+}
+.createclinicprofilepage-providerbasicinforectangle {
+  top: 98px;
+  left: 33px;
+  width: 383px;
+  height: 223px;
+  position: absolute;
+  border-radius: 26px;
+}
+.createclinicprofilepage-text10 {
+  top: 348px;
+  left: 173px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-providerpagelikedivide-rectangle5 {
+  top: 369px;
+  left: 29px;
+  width: 120px;
+  height: 434px;
+  position: absolute;
+  border-radius: 19px;
+}
+.createclinicprofilepage-follower {
+  top: 416px;
+  left: 74px;
+  width: 29px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-text12 {
+  left: 7px;
+  color: rgba(67, 67, 67, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text13 {
+  top: 25px;
+  color: rgba(101, 101, 101, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-providerpagedivide-line2 {
+  top: 675.615234375px;
+  left: 60px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+.createclinicprofilepage-providerpagedivide-line1 {
+  top: 501.615234375px;
+  left: 60px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+.createclinicprofilepage-gallery-pic {
+  top: 504px;
+  left: 173px;
+  width: 229px;
+  height: 299px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-topprovidergalley1 {
+  top: -1px;
+  left: 0px;
+  width: 239px;
+  height: 100px;
+  position: absolute;
+}
+.createclinicprofilepage-topprovidergallery2 {
+  top: 112px;
+  left: 0px;
+  width: 229px;
+  height: 100px;
+  position: absolute;
+}
+.createclinicprofilepage-topprovidergalley3 {
+  top: 225px;
+  left: 0px;
+  width: 229px;
+  height: 100px;
+  position: absolute;
+}
+.createclinicprofilepage-ellipse21 {
+  top: -450px;
+  left: -4px;
+  width: 103px;
+  height: 103px;
+  position: absolute;
+}
+.createclinicprofilepage-text15 {
+  top: 457px;
+  left: 158px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text17 {
+  top: 157px;
+  left: 64px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text19 {
+  top: 198px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  width: 290px;
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-ellipse22 {
+  top: 48px;
+  left: 163px;
+  width: 103px;
+  height: 103px;
+  position: absolute;
+}
+.createclinicprofilepage-providerchosetaggoodatgroup {
+  top: 388px;
+  left: 172px;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-shouldchoosebefore {
+  gap: 20.522563934326172px;
+  top: 0px;
+  left: 0px;
+  width: 220px;
+  height: 50px;
+  display: flex;
+  padding: 27.363420486450195px;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 150.49880981445312px 174.4418182373047px 64.98812866210938px 0px rgba(0, 0, 0, 0) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 342.042724609375px;
+  justify-content: center;
+  background-color: rgba(255, 182, 40, 1);
+}
+.createclinicprofilepage-waitingverify {
+  top: 276px;
+  left: 51px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.createclinicprofilepage-text21 {
+  top: 278px;
+  left: 88px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-providerfollower {
+  top: 709px;
+  left: 60px;
+  width: 58px;
+  height: 43px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-text23 {
+  left: 20px;
+  color: rgba(67, 67, 67, 1);
+  height: auto;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text24 {
+  top: 25px;
+  color: rgba(101, 101, 101, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-followbehaviour-rectangle {
+  top: 235px;
+  left: 74px;
+  width: 233px;
+  height: 26px;
+  position: absolute;
+  box-shadow: 0px 2px 4px 0px rgba(139, 138, 148, 1) ;
+}
+.createclinicprofilepage-messagecircle {
+  top: 226px;
+  left: 316px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.createclinicprofilepage-text26 {
+  top: 234px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-following {
+  top: 567px;
+  left: 43px;
+  width: 305px;
+  height: 42px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-text28 {
+  left: 26px;
+  color: rgba(67, 67, 67, 1);
+  height: auto;
+  opacity: 0.98;
+  position: absolute;
+  font-size: 21px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text30 {
+  top: 24px;
+  color: rgba(101, 101, 101, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-text32 {
+  top: 1px;
+  left: 175px;
+  color: rgba(101, 101, 101, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.createclinicprofilepage-create {
+  top: 527px;
+  left: 266px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.createclinicprofilepage-buttombar {
+  gap: 79px;
+  top: 894px;
+  left: -7px;
+  width: 451px;
+  height: 62px;
+  display: flex;
+  padding: 28px 56px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 10px;
+  justify-content: space-between;
+  background-color: rgba(255, 182, 18, 1);
+}
+.createclinicprofilepage-iconboldhome2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.createclinicprofilepage-vuesaxboldhome2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-home2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-vector1 {
+  top: 2.0022594928741455px;
+  left: 1.9900000095367432px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.createclinicprofilepage-search1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.createclinicprofilepage-search2 {
+  top: 3px;
+  left: 3px;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-stroke1 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.createclinicprofilepage-stroke2 {
+  top: 14px;
+  left: 14px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.createclinicprofilepage-notification {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.createclinicprofilepage-group {
+  top: 1.9999995231628418px;
+  left: 3.000013589859009px;
+  width: 17.943193435668945px;
+  height: 19.999977111816406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-vector2 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 16px;
+  position: absolute;
+}
+.createclinicprofilepage-vector3 {
+  top: 16.410005569458008px;
+  left: 5.125200271606445px;
+  width: 8px;
+  height: 4px;
+  position: absolute;
+}
+.createclinicprofilepage-user1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.createclinicprofilepage-vuesaxlinearuser {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-user2 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.createclinicprofilepage-vector4 {
+  top: 2px;
+  left: 7px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.createclinicprofilepage-vector5 {
+  top: 15px;
+  left: 3.410003662109375px;
+  width: 17px;
+  height: 7px;
+  position: absolute;
+}

@@ -21,9 +21,6 @@
   --dl-color-theme-accent1: #FFFFFF;
   --dl-color-theme-accent2: #F5D1B0;
   --dl-radius-radius-round: 50%;
-  --dl-color-labels-primary: rgba(0, 0, 0, 1);
-  --dl-color-primary-accent: rgba(42, 204, 188, 1);
-  --dl-color-tertiary-error: rgba(254, 54, 76, 1);
   --dl-color-theme-primary1: #BF4408;
   --dl-color-theme-primary2: #E65103;
   --dl-space-space-halfunit: 8px;
@@ -35,7 +32,6 @@
   --dl-space-space-fiveunits: 80px;
   --dl-space-space-fourunits: 64px;
   --dl-color-neutral-greydark: rgba(115, 122, 127, 1);
-  --dl-color-neutral-greysoft: rgba(210, 216, 222, 1);
   --dl-color-theme-secondary1: #FFFFFF;
   --dl-color-theme-secondary2: #FBF1EB;
   --dl-space-space-threeunits: 48px;
@@ -488,14 +484,6 @@
   z-index: -1;
   transform: scaleX(1);
 }
-.BodyS {
-  font-size: 14px;
-  font-style: normal;
-  font-family: Manrope;
-  font-weight: 400px;
-  font-stretch: normal;
-  letter-spacing: 0px;
-}
 .BodyEmphasized {
   font-size: 16px;
   font-style: normal;
@@ -504,29 +492,37 @@
   font-stretch: normal;
   letter-spacing: 0.20000000298023224px;
 }
-.CaptionRegular {
-  font-size: 12px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 400px;
-  font-stretch: normal;
-  letter-spacing: 0.30000001192092896px;
-}
-.Content {
+.BodyRegular {
   font-size: 16px;
-  font-family: Inter;
-  font-weight: 400;
-  line-height: 1.15;
-  text-transform: none;
-  text-decoration: none;
-}
-.BodyRegular1 {
-  font-size: 17px;
   font-style: normal;
-  font-family: SF Pro;
+  font-family: Inter;
   font-weight: 400px;
   font-stretch: normal;
-  letter-spacing: -0.4000000059604645px;
+  letter-spacing: 0px;
+}
+.Title1Emphasized {
+  font-size: 24px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.Title2Emphasized {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 700px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+.BodyS {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Manrope;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0px;
 }
 .CaptionFootnote {
   font-size: 14px;
@@ -544,37 +540,13 @@
   font-stretch: normal;
   letter-spacing: 0px;
 }
-.CalloutRegular {
+.Content {
   font-size: 16px;
-  font-style: normal;
-  font-family: SF Pro;
-  font-weight: 400px;
-  font-stretch: normal;
-  letter-spacing: -0.4000000059604645px;
-}
-.Title2Emphasized {
-  font-size: 20px;
-  font-style: normal;
   font-family: Inter;
-  font-weight: 700px;
-  font-stretch: normal;
-  letter-spacing: 0em;
-}
-.BodyRegular {
-  font-size: 16px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 400px;
-  font-stretch: normal;
-  letter-spacing: 0px;
-}
-.Title1Emphasized {
-  font-size: 24px;
-  font-style: normal;
-  font-family: Inter;
-  font-weight: 700px;
-  font-stretch: normal;
-  letter-spacing: 0em;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
 }
 @media(max-width: 991px) {
   .thq-grid-4 {

@@ -13,32 +13,32 @@ const Selectwrong = (props) => {
       <div className="selectwrong-selectwrong">
         <img
           alt="Rectangle177261"
-          src="/external/rectangle177261-2v2-200h.png"
+          src="/external/rectangle177261-x7pu-200h.png"
           className="selectwrong-rectangle17"
         />
         <img
           alt="user7261"
-          src="/external/user7261-otv.svg"
+          src="/external/user7261-jxzn.svg"
           className="selectwrong-user"
         />
         <img
           alt="Rectangle237261"
-          src="/external/rectangle237261-cdoa-500w.png"
+          src="/external/rectangle237261-usy-500w.png"
           className="selectwrong-rectangle23"
         />
         <img
           alt="Rectangle267261"
-          src="/external/rectangle267261-h68h-200h.png"
+          src="/external/rectangle267261-wt9c-200h.png"
           className="selectwrong-rectangle26"
         />
         <img
           alt="Rectangle287261"
-          src="/external/rectangle287261-zfb-200h.png"
+          src="/external/rectangle287261-1l19-200h.png"
           className="selectwrong-rectangle28"
         />
         <img
           alt="Rectangle297261"
-          src="/external/rectangle297261-m75f-200h.png"
+          src="/external/rectangle297261-1wi3-200h.png"
           className="selectwrong-rectangle29"
         />
         <span className="selectwrong-text10">
@@ -49,7 +49,7 @@ const Selectwrong = (props) => {
         </span>
         <img
           alt="Rectangle277262"
-          src="/external/rectangle277262-aegi-200h.png"
+          src="/external/rectangle277262-1pir-200h.png"
           className="selectwrong-rectangle27"
         />
         <span className="selectwrong-text12">
@@ -66,7 +66,7 @@ const Selectwrong = (props) => {
         </span>
         <img
           alt="logoebtib27262"
-          src="/external/logoebtib27262-ll44-200h.png"
+          src="/external/logoebtib27262-jufp-200h.png"
           className="selectwrong-logoebtib2"
         />
         <span className="selectwrong-text18">
@@ -105,7 +105,7 @@ const Selectwrong = (props) => {
               <div className="selectwrong-close2">
                 <img
                   alt="VectorI726"
-                  src="/external/vectori726-ekm.svg"
+                  src="/external/vectori726-01x.svg"
                   className="selectwrong-vector"
                 />
               </div>

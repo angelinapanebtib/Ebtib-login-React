@@ -1,0 +1,184 @@
+.afterselectoffersupportbecomeprovider-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.afterselectoffersupportbecomeprovider-afterselectoffersupportbecomeprovider {
+  width: 100%;
+  height: 966px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.afterselectoffersupportbecomeprovider-afterselecthomepage {
+  top: 0px;
+  left: 0px;
+  width: 438.01708984375px;
+  height: 965.9998779296875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.afterselectoffersupportbecomeprovider-next-button1stpage {
+  top: 814.3504028320312px;
+  left: 102.99406433105469px;
+  width: 196.56253051757812px;
+  height: 48.12165069580078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.afterselectoffersupportbecomeprovider-button {
+  gap: 8px;
+  top: 0px;
+  left: 28.82917022705078px;
+  width: 168px;
+  height: 48.12165069580078px;
+  display: flex;
+  padding: 13px 32px;
+  position: absolute;
+  box-shadow: 0px 0px 8px 0px rgba(255, 255, 255, 0.3199999928474426) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 1);
+}
+.afterselectoffersupportbecomeprovider-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.afterselectoffersupportbecomeprovider-frame-arrow {
+  gap: 6px;
+  width: 14px;
+  height: 16px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.afterselectoffersupportbecomeprovider-arow2 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 16px;
+  position: absolute;
+}
+.afterselectoffersupportbecomeprovider-choiceyes {
+  top: 692.9985961914062px;
+  left: 80.08634948730469px;
+  width: 52px;
+  height: 55px;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+}
+.afterselectoffersupportbecomeprovider-ellipsechoiceyes {
+  top: 710.0480346679688px;
+  left: 96.31266784667969px;
+  width: 19px;
+  height: 19px;
+  position: absolute;
+}
+.afterselectoffersupportbecomeprovider-choiceno {
+  top: 579.6701049804688px;
+  left: 80.08634948730469px;
+  width: 52px;
+  height: 55px;
+  position: absolute;
+  flex-grow: 1;
+  align-self: stretch;
+}
+.afterselectoffersupportbecomeprovider-text12 {
+  top: 701.0218505859375px;
+  left: 122.08367919921875px;
+  color: rgba(0, 0, 0, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.afterselectoffersupportbecomeprovider-text14 {
+  top: 589.6991577148438px;
+  left: 133.53753662109375px;
+  color: rgba(0, 0, 0, 1);
+  width: 229px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.afterselectoffersupportbecomeprovider-text16 {
+  top: 432.24407958984375px;
+  left: 52.40625px;
+  color: rgba(0, 0, 0, 1);
+  width: 351px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.afterselectoffersupportbecomeprovider-text18 {
+  top: 252.72366333007812px;
+  left: 18.044921875px;
+  color: rgba(0, 0, 0, 1);
+  width: 420px;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Cabin;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.afterselectoffersupportbecomeprovider-background1st {
+  top: 965.9998779296875px;
+  left: 5.122481822967529px;
+  width: 964px;
+  height: 427px;
+  position: absolute;
+}
+.afterselectoffersupportbecomeprovider-arrowrightline1 {
+  top: 32px;
+  left: 84px;
+  width: 74px;
+  height: 54px;
+  position: absolute;
+}
